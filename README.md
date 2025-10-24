@@ -59,3 +59,23 @@ Para fins de maior compreensão do projeto, alguns links foram disponibilizados 
 
 <a href='https://cage.fazenda.rs.gov.br/balanco-geral-do-estado'>Balanço Geral do Estado</a>
 
+
+
+# Sistema 
+
+## Chatbot - Balanço Geral do Estado do Rio Grande do Sul
+
+Este chatbot permite fazer perguntas sobre o Balanço Geral do Estado do Rio Grande do Sul (exercício 2024).
+
+## Como usar
+
+1. Digite sua pergunta na caixa de texto
+2. Clique em "Enviar" ou pressione Enter
+3. O chatbot responderá com base no documento do Balanço Geral
+
+## Exemplos de perguntas
+
+- "O que é o Balanço Geral?"
+- "Quais são as principais receitas do estado?"
+- "Como está a situação financeira do RS?"
+
