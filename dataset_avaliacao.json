@@ -1,6 +1,7 @@
 [
     {
       "persona": "Cidadão Leigo - Aposentado",
+      "descricao": "Aposentado de 65-75 anos, sem formação técnica em contabilidade ou economia. Não tem experiência de vida prática e conhecimento básico sobre impostos e serviços públicos. Prefere explicações simples, com analogias do cotidiano. Foca em questões práticas como 'onde vai meu dinheiro' e 'o que isso significa para mim'. Pode ficar confuso com jargões técnicos e precisa de exemplos concretos. Valoriza transparência e quer entender se o governo está administrando bem os recursos públicos. Reage positivamente a explicações claras e negativamente a respostas muito técnicas ou evasivas.",
       "perguntas": [
         "O que é esse tal de Balanço Geral do Estado?",
         "O governo está gastando mais do que ganha?",
@@ -16,6 +17,7 @@
     },
     {
       "persona": "Jornalista Local",
+      "descricao": "Jornalista experiente com foco em política e economia local. Tem conhecimento intermediário em contabilidade pública e economia. Busca dados específicos, números concretos e tendências comparativas. Foca em impacto, consequências e contexto histórico. Precisa de informações precisas para escrever matérias e fazer análises. Valoriza fontes confiáveis e dados verificáveis. Reage positivamente a respostas com números específicos, comparações temporais e análises de impacto. Fica frustrado com respostas vagas ou sem dados concretos. Sempre busca o 'porquê' por trás dos números.",
       "perguntas": [
         "Quais foram as principais fontes de receita do Estado em 2024?",
         "Como as enchentes afetaram a arrecadação de ICMS?",
@@ -31,6 +33,7 @@
     },
     {
       "persona": "Estudante Universitário",
+      "descricao": "Estudante de 20-25 anos cursando Administração, Economia ou áreas afins. Tem conhecimento teórico básico a intermediário em contabilidade e finanças públicas. Busca entender conceitos, processos e relações causais. Foca em aprendizado e compreensão de como as coisas funcionam. Precisa de explicações didáticas que conectem teoria com prática. Valoriza exemplos práticos e analogias que facilitem o aprendizado. Reage positivamente a respostas educativas que expliquem o 'como' e 'porquê'. Fica interessado em detalhes técnicos quando bem explicados e pode fazer perguntas de aprofundamento.",
       "perguntas": [
         "Como funciona o Balanço Geral do Estado dentro do ciclo orçamentário?",
         "Qual é a diferença entre receita corrente e receita de capital?",
@@ -46,6 +49,7 @@
     },
     {
       "persona": "Contador Público",
+      "descricao": "Profissional contábil com 5-15 anos de experiência em contabilidade pública. Tem conhecimento técnico avançado em normas contábeis, legislação fiscal e procedimentos contábeis governamentais. Busca precisão técnica, conformidade normativa e detalhes metodológicos. Foca em procedimentos, ajustes contábeis e conformidade legal. Precisa de informações técnicas precisas e referências normativas. Valoriza exatidão, procedimentos corretos e conformidade com as normas. Reage positivamente a respostas técnicas detalhadas com referências normativas. Fica frustrado com imprecisões técnicas ou falta de detalhamento metodológico. Sempre verifica conformidade com normas e procedimentos.",
       "perguntas": [
         "Quais foram os principais ajustes contábeis realizados na consolidação do balanço?",
         "Como se comportou a Receita Corrente Líquida em relação ao limite da LRF?",
@@ -61,6 +65,7 @@
     },
     {
       "persona": "Vereador Municipal",
+      "descricao": "Político eleito com 2-8 anos de mandato, sem formação técnica específica em contabilidade. Tem conhecimento prático sobre orçamento municipal e políticas públicas. Busca informações sobre impacto nas políticas públicas e na população. Foca em consequências práticas, investimentos em áreas prioritárias e relação Estado-municípios. Precisa de informações claras sobre como os dados afetam o município e os cidadãos. Valoriza transparência, responsabilidade fiscal e impacto social. Reage positivamente a respostas que conectem dados financeiros com benefícios sociais. Fica interessado em como os dados podem ser usados para justificar políticas públicas e cobrar responsabilidade do governo estadual.",
       "perguntas": [
         "O que o Balanço Geral mostra sobre a saúde financeira do Estado?",
         "Qual foi o impacto orçamentário das enchentes de 2024?",
