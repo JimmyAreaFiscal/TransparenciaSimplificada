@@ -1,0 +1,78 @@
+[
+    {
+      "persona": "Cidadão Leigo - Aposentado",
+      "perguntas": [
+        "O que é esse tal de Balanço Geral do Estado?",
+        "O governo está gastando mais do que ganha?",
+        "O que é ICMS e por que ele aparece tanto no balanço?",
+        "Como saber se o Estado está com dinheiro em caixa?",
+        "Para onde vai o dinheiro dos impostos que eu pago?",
+        "Essas enchentes de 2024 afetaram as contas do governo?",
+        "O que significa quando dizem que o orçamento teve resultado positivo?",
+        "O governo tem dívidas? Como isso afeta o cidadão comum?",
+        "O que é Plano Rio Grande que aparece nesse documento?",
+        "Como eu posso ver quanto o governo gasta com saúde e educação?"
+      ]
+    },
+    {
+      "persona": "Jornalista Local",
+      "perguntas": [
+        "Quais foram as principais fontes de receita do Estado em 2024?",
+        "Como as enchentes afetaram a arrecadação de ICMS?",
+        "Quais setores tiveram mais investimento público neste ano?",
+        "O Plano Rio Grande gerou impacto orçamentário significativo?",
+        "Qual a situação da dívida do Estado em relação à Receita Corrente Líquida?",
+        "Como os gastos com pessoal evoluíram em relação ao ano passado?",
+        "O que significa o resultado primário positivo apresentado?",
+        "Como o Regime de Recuperação Fiscal influenciou as contas públicas?",
+        "Quanto foi investido em saúde e educação em 2024?",
+        "Há indicadores que mostrem melhora na situação fiscal do Estado?"
+      ]
+    },
+    {
+      "persona": "Estudante Universitário",
+      "perguntas": [
+        "Como funciona o Balanço Geral do Estado dentro do ciclo orçamentário?",
+        "Qual é a diferença entre receita corrente e receita de capital?",
+        "Por que o ICMS representa uma parte tão grande da arrecadação estadual?",
+        "Como o Estado financia investimentos em infraestrutura?",
+        "Qual é a importância da Lei de Responsabilidade Fiscal nesse contexto?",
+        "O que são restos a pagar e como eles afetam o orçamento?",
+        "Como o Plano Plurianual se relaciona com a execução orçamentária?",
+        "Qual foi o impacto financeiro da calamidade pública em 2024?",
+        "Como o Estado mede seu resultado orçamentário e fiscal?",
+        "Qual a relação entre a dívida pública e a capacidade de investimento?"
+      ]
+    },
+    {
+      "persona": "Contador Público",
+      "perguntas": [
+        "Quais foram os principais ajustes contábeis realizados na consolidação do balanço?",
+        "Como se comportou a Receita Corrente Líquida em relação ao limite da LRF?",
+        "Qual foi o impacto da LC 206/2024 sobre a dívida consolidada líquida?",
+        "Houve variação significativa na execução de restos a pagar não processados?",
+        "Como está estruturada a Demonstração de Variações Patrimoniais?",
+        "Qual a composição da despesa com pessoal e encargos em 2024?",
+        "Como o Estado tratou contabilmente as despesas emergenciais da calamidade?",
+        "Quais procedimentos foram adotados no Plano de Implantação dos Procedimentos Contábeis Patrimoniais?",
+        "Quais indicadores fiscais apresentaram melhora no exercício?",
+        "Quais notas explicativas detalham a consolidação das demonstrações contábeis?"
+      ]
+    },
+    {
+      "persona": "Vereador Municipal",
+      "perguntas": [
+        "O que o Balanço Geral mostra sobre a saúde financeira do Estado?",
+        "Qual foi o impacto orçamentário das enchentes de 2024?",
+        "Quanto o Estado está investindo em infraestrutura para recuperação?",
+        "O que significa ter superávit orçamentário?",
+        "Quais áreas receberam mais recursos públicos em 2024?",
+        "Qual é o tamanho da dívida do Estado e como isso afeta os municípios?",
+        "O que o Regime de Recuperação Fiscal representa na prática para as políticas públicas?",
+        "Como os municípios podem acessar informações detalhadas sobre transferências?",
+        "Quais indicadores mostram se o Estado está gastando de forma responsável?",
+        "Como a arrecadação do Estado pode impactar o orçamento municipal?"
+      ]
+    }
+  ]
+  
