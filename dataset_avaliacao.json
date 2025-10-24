@@ -1,83 +1,152 @@
 [
-    {
-      "persona": "Cidadão Leigo - Aposentado",
-      "descricao": "Aposentado de 65-75 anos, sem formação técnica em contabilidade ou economia. Não tem experiência de vida prática e conhecimento básico sobre impostos e serviços públicos. Prefere explicações simples, com analogias do cotidiano. Foca em questões práticas como 'onde vai meu dinheiro' e 'o que isso significa para mim'. Pode ficar confuso com jargões técnicos e precisa de exemplos concretos. Valoriza transparência e quer entender se o governo está administrando bem os recursos públicos. Reage positivamente a explicações claras e negativamente a respostas muito técnicas ou evasivas.",
-      "perguntas": [
-        "O que é esse tal de Balanço Geral do Estado?",
-        "O governo está gastando mais do que ganha?",
-        "O que é ICMS e por que ele aparece tanto no balanço?",
-        "Como saber se o Estado está com dinheiro em caixa?",
-        "Para onde vai o dinheiro dos impostos que eu pago?",
-        "Essas enchentes de 2024 afetaram as contas do governo?",
-        "O que significa quando dizem que o orçamento teve resultado positivo?",
-        "O governo tem dívidas? Como isso afeta o cidadão comum?",
-        "O que é Plano Rio Grande que aparece nesse documento?",
-        "Como eu posso ver quanto o governo gasta com saúde e educação?"
-      ]
-    },
-    {
-      "persona": "Jornalista Local",
-      "descricao": "Jornalista experiente com foco em política e economia local. Tem conhecimento intermediário em contabilidade pública e economia. Busca dados específicos, números concretos e tendências comparativas. Foca em impacto, consequências e contexto histórico. Precisa de informações precisas para escrever matérias e fazer análises. Valoriza fontes confiáveis e dados verificáveis. Reage positivamente a respostas com números específicos, comparações temporais e análises de impacto. Fica frustrado com respostas vagas ou sem dados concretos. Sempre busca o 'porquê' por trás dos números.",
-      "perguntas": [
-        "Quais foram as principais fontes de receita do Estado em 2024?",
-        "Como as enchentes afetaram a arrecadação de ICMS?",
-        "Quais setores tiveram mais investimento público neste ano?",
-        "O Plano Rio Grande gerou impacto orçamentário significativo?",
-        "Qual a situação da dívida do Estado em relação à Receita Corrente Líquida?",
-        "Como os gastos com pessoal evoluíram em relação ao ano passado?",
-        "O que significa o resultado primário positivo apresentado?",
-        "Como o Regime de Recuperação Fiscal influenciou as contas públicas?",
-        "Quanto foi investido em saúde e educação em 2024?",
-        "Há indicadores que mostrem melhora na situação fiscal do Estado?"
-      ]
-    },
-    {
-      "persona": "Estudante Universitário",
-      "descricao": "Estudante de 20-25 anos cursando Administração, Economia ou áreas afins. Tem conhecimento teórico básico a intermediário em contabilidade e finanças públicas. Busca entender conceitos, processos e relações causais. Foca em aprendizado e compreensão de como as coisas funcionam. Precisa de explicações didáticas que conectem teoria com prática. Valoriza exemplos práticos e analogias que facilitem o aprendizado. Reage positivamente a respostas educativas que expliquem o 'como' e 'porquê'. Fica interessado em detalhes técnicos quando bem explicados e pode fazer perguntas de aprofundamento.",
-      "perguntas": [
-        "Como funciona o Balanço Geral do Estado dentro do ciclo orçamentário?",
-        "Qual é a diferença entre receita corrente e receita de capital?",
-        "Por que o ICMS representa uma parte tão grande da arrecadação estadual?",
-        "Como o Estado financia investimentos em infraestrutura?",
-        "Qual é a importância da Lei de Responsabilidade Fiscal nesse contexto?",
-        "O que são restos a pagar e como eles afetam o orçamento?",
-        "Como o Plano Plurianual se relaciona com a execução orçamentária?",
-        "Qual foi o impacto financeiro da calamidade pública em 2024?",
-        "Como o Estado mede seu resultado orçamentário e fiscal?",
-        "Qual a relação entre a dívida pública e a capacidade de investimento?"
-      ]
-    },
-    {
-      "persona": "Contador Público",
-      "descricao": "Profissional contábil com 5-15 anos de experiência em contabilidade pública. Tem conhecimento técnico avançado em normas contábeis, legislação fiscal e procedimentos contábeis governamentais. Busca precisão técnica, conformidade normativa e detalhes metodológicos. Foca em procedimentos, ajustes contábeis e conformidade legal. Precisa de informações técnicas precisas e referências normativas. Valoriza exatidão, procedimentos corretos e conformidade com as normas. Reage positivamente a respostas técnicas detalhadas com referências normativas. Fica frustrado com imprecisões técnicas ou falta de detalhamento metodológico. Sempre verifica conformidade com normas e procedimentos.",
-      "perguntas": [
-        "Quais foram os principais ajustes contábeis realizados na consolidação do balanço?",
-        "Como se comportou a Receita Corrente Líquida em relação ao limite da LRF?",
-        "Qual foi o impacto da LC 206/2024 sobre a dívida consolidada líquida?",
-        "Houve variação significativa na execução de restos a pagar não processados?",
-        "Como está estruturada a Demonstração de Variações Patrimoniais?",
-        "Qual a composição da despesa com pessoal e encargos em 2024?",
-        "Como o Estado tratou contabilmente as despesas emergenciais da calamidade?",
-        "Quais procedimentos foram adotados no Plano de Implantação dos Procedimentos Contábeis Patrimoniais?",
-        "Quais indicadores fiscais apresentaram melhora no exercício?",
-        "Quais notas explicativas detalham a consolidação das demonstrações contábeis?"
-      ]
-    },
-    {
-      "persona": "Vereador Municipal",
-      "descricao": "Político eleito com 2-8 anos de mandato, sem formação técnica específica em contabilidade. Tem conhecimento prático sobre orçamento municipal e políticas públicas. Busca informações sobre impacto nas políticas públicas e na população. Foca em consequências práticas, investimentos em áreas prioritárias e relação Estado-municípios. Precisa de informações claras sobre como os dados afetam o município e os cidadãos. Valoriza transparência, responsabilidade fiscal e impacto social. Reage positivamente a respostas que conectem dados financeiros com benefícios sociais. Fica interessado em como os dados podem ser usados para justificar políticas públicas e cobrar responsabilidade do governo estadual.",
-      "perguntas": [
-        "O que o Balanço Geral mostra sobre a saúde financeira do Estado?",
-        "Qual foi o impacto orçamentário das enchentes de 2024?",
-        "Quanto o Estado está investindo em infraestrutura para recuperação?",
-        "O que significa ter superávit orçamentário?",
-        "Quais áreas receberam mais recursos públicos em 2024?",
-        "Qual é o tamanho da dívida do Estado e como isso afeta os municípios?",
-        "O que o Regime de Recuperação Fiscal representa na prática para as políticas públicas?",
-        "Como os municípios podem acessar informações detalhadas sobre transferências?",
-        "Quais indicadores mostram se o Estado está gastando de forma responsável?",
-        "Como a arrecadação do Estado pode impactar o orçamento municipal?"
-      ]
-    }
-  ]
-  
+  {
+    "persona": "Cidadão Leigo - Aposentado",
+    "perguntas": [
+      "O que é esse tal de Balanço Geral do Estado?",
+      "O governo está gastando mais do que ganha?",
+      "O que é ICMS e por que ele aparece tanto no balanço?",
+      "Como saber se o Estado está com dinheiro em caixa?",
+      "Para onde vai o dinheiro dos impostos que eu pago?",
+      "Essas enchentes de 2024 afetaram as contas do governo?",
+      "O que significa quando dizem que o orçamento teve resultado positivo?",
+      "O governo tem dívidas? Como isso afeta o cidadão comum?",
+      "O que é Plano Rio Grande que aparece nesse documento?",
+      "Como eu posso ver quanto o governo gasta com saúde e educação?"
+    ]
+  },
+  {
+    "persona": "Jornalista Local",
+    "perguntas": [
+      "Quais foram as principais fontes de receita do Estado em 2024?",
+      "Como as enchentes afetaram a arrecadação de ICMS?",
+      "Quais setores tiveram mais investimento público neste ano?",
+      "O Plano Rio Grande gerou impacto orçamentário significativo?",
+      "Qual a situação da dívida do Estado em relação à Receita Corrente Líquida?",
+      "Como os gastos com pessoal evoluíram em relação ao ano passado?",
+      "O que significa o resultado primário positivo apresentado?",
+      "Como o Regime de Recuperação Fiscal influenciou as contas públicas?",
+      "Quanto foi investido em saúde e educação em 2024?",
+      "Há indicadores que mostrem melhora na situação fiscal do Estado?"
+    ]
+  },
+  {
+    "persona": "Estudante Universitário",
+    "perguntas": [
+      "Como funciona o Balanço Geral do Estado dentro do ciclo orçamentário?",
+      "Qual é a diferença entre receita corrente e receita de capital?",
+      "Por que o ICMS representa uma parte tão grande da arrecadação estadual?",
+      "Como o Estado financia investimentos em infraestrutura?",
+      "Qual é a importância da Lei de Responsabilidade Fiscal nesse contexto?",
+      "O que são restos a pagar e como eles afetam o orçamento?",
+      "Como o Plano Plurianual se relaciona com a execução orçamentária?",
+      "Qual foi o impacto financeiro da calamidade pública em 2024?",
+      "Como o Estado mede seu resultado orçamentário e fiscal?",
+      "Qual a relação between a dívida pública e a capacidade de investimento?"
+    ]
+  },
+  {
+    "persona": "Contador Público",
+    "perguntas": [
+      "Quais foram os principais ajustes contábeis realizados na consolidação do balanço?",
+      "Como se comportou a Receita Corrente Líquida em relação ao limite da LRF?",
+      "Qual foi o impacto da LC 206/2024 sobre a dívida consolidada líquida?",
+      "Houve variação significativa na execução de restos a pagar não processados?",
+      "Como está estruturada a Demonstração de Variações Patrimoniais?",
+      "Qual a composição da despesa com pessoal e encargos em 2024?",
+      "Como o Estado tratou contabilmente as despesas emergenciais da calamidade?",
+      "Quais procedimentos foram adotados no Plano de Implantação dos Procedimentos Contábeis Patrimoniais?",
+      "Quais indicadores fiscais apresentaram melhora no exercício?",
+      "Quais notas explicativas detalham a consolidação das demonstrações contábeis?"
+    ]
+  },
+  {
+    "persona": "Vereador Municipal",
+    "perguntas": [
+      "O que o Balanço Geral mostra sobre a saúde financeira do Estado?",
+      "Qual foi o impacto orçamentário das enchentes de 2024?",
+      "Quanto o Estado está investindo em infraestrutura para recuperação?",
+      "O que significa ter superávit orçamentário?",
+      "Quais áreas receberam mais recursos públicos em 2024?",
+      "Qual é o tamanho da dívida do Estado e como isso afeta os municípios?",
+      "O que o Regime de Recuperação Fiscal representa na prática para as políticas públicas?",
+      "Como os municípios podem acessar informações detalhadas sobre transferências?",
+      "Quais indicadores mostram se o Estado está gastando de forma responsável?",
+      "Como a arrecadação do Estado pode impactar o orçamento municipal?"
+    ]
+  },
+  {
+    "persona": "Empresário / Pequeno Comerciante",
+    "perguntas": [
+      "A arrecadação de ICMS aumentou ou diminuiu em 2024? Isso afetou meu setor?",
+      "O governo gastou mais com burocracia ou mais com investimento em infraestrutura?",
+      "Existem dados no balanço sobre incentivos fiscais para empresas afetadas pelas enchentes?",
+      "Qual foi o gasto total do Estado com o Plano Rio Grande para reerguer a economia?",
+      "O que o balanço diz sobre a 'dívida ativa'? Isso é dinheiro que o governo deixou de cobrar de empresas?",
+      "O Estado está pagando seus fornecedores em dia? (Onde vejo 'restos a pagar'?)",
+      "O aumento da dívida do Estado pode significar mais impostos para nós no futuro?",
+      "Qual a porcentagem do orçamento que vem do meu imposto (ICMS)?",
+      "O que significa 'resultado nominal'? Isso é bom ou ruim para os negócios?",
+      "Os gastos com manutenção de estradas e portos aumentaram?"
+    ]
+  },
+  {
+    "persona": "Servidor Público Estadual",
+    "perguntas": [
+      "O gasto com a folha de pagamento de servidores está dentro do limite da Lei de Responsabilidade Fiscal?",
+      "Qual é a situação do fundo de pensão dos servidores (IPERGS)? O balanço mostra isso?",
+      "O governo teve que usar dinheiro do caixa para cobrir o déficit da previdência?",
+      "O Regime de Recuperação Fiscal (RRF) impediu o reajuste dos servidores em 2024?",
+      "Quanto o Estado gasta no total com pessoal (ativos e inativos)?",
+      "As despesas com pessoal cresceram mais ou menos que a inflação?",
+      "O balanço mostra se o 13º salário dos servidores está garantido?",
+      "O que significa o 'resultado primário' para o pagamento do meu salário?",
+      "Onde encontro o anexo de despesa com pessoal no Balanço Geral?",
+      "A arrecadação do Estado foi suficiente para cobrir os gastos com a folha de pagamento?"
+    ]
+  },
+  {
+    "persona": "Analista de Risco / Investidor",
+    "perguntas": [
+      "Qual é o perfil de endividamento do Estado (dívida com a União, títulos, precatórios)?",
+      "Como o serviço da dívida (juros e amortizações) impactou o fluxo de caixa em 2024?",
+      "Qual é o nível de liquidez do Tesouro Estadual? (Disponibilidade de Caixa / Restos a Pagar)",
+      "O Estado cumpriu todas as metas do Regime de Recuperação Fiscal (RRF) em 2024?",
+      "Qual foi o impacto da suspensão do pagamento da dívida com a União (LC 206/24) no resultado financeiro?",
+      "Como a catástrofe climática de 2024 alterou as projeções fiscais de médio prazo?",
+      "Qual o percentual da Receita Corrente Líquida (RCL) comprometido com despesa de pessoal?",
+      "O balanço aponta o montante de 'passivos contingentes'?",
+      "Qual a avaliação de rating do Estado (Capacidade de Pagamento - CAPAG) mencionada no relatório?",
+      "O resultado primário foi suficiente para estabilizar a Dívida Consolidada Líquida?"
+    ]
+  },
+  {
+    "persona": "Produtor Rural / Representante do Agronegócio",
+    "perguntas": [
+      "Quanto do dinheiro do Plano Rio Grande foi destinado especificamente para a recuperação da agricultura?",
+      "O balanço mostra quanto foi gasto com a manutenção de estradas vicinais?",
+      "A arrecadação de ICMS do setor do agronegócio foi muito afetada pelas enchentes?",
+      "Existem dados sobre o Fundo de Desenvolvimento Agropecuário (FUNDEAGRO) no balanço?",
+      "Qual foi o gasto total do Estado com a Secretaria da Agricultura em 2024?",
+      "O que o balanço diz sobre o endividamento rural ou programas de renegociação de dívidas do Estado?",
+      "O governo usou recursos da Defesa Civil para ajudar os produtores rurais?",
+      "Como a queda na produção agrícola impactou a receita total do RS?",
+      "Há algum relatório sobre o Fundo Estadual de Apoio ao Desenvolvimento dos Pequenos Estabelecimentos Rurais (FEAPER)?",
+      "O Estado está investindo em irrigação ou prevenção de desastres para o agro?"
+    ]
+  },
+  {
+    "persona": "Membro de ONG / Terceiro Setor",
+    "perguntas": [
+      "Qual foi o valor exato gasto com Assistência Social em 2024?",
+      "Onde posso encontrar no balanço os gastos detalhados com proteção ao meio ambiente?",
+      "Os gastos com saúde e educação atingiram os mínimos constitucionais?",
+      "Quanto foi destinado para políticas de direitos humanos ou igualdade racial?",
+      "O balanço mostra as transferências feitas pelo Estado para ONGs e entidades do terceiro setor?",
+      "Como os gastos emergenciais das enchentes foram distribuídos entre moradia, alimentação e saúde?",
+      "Existe algum anexo que mostre o gasto social por região ou município?",
+      "Qual foi o orçamento executado da Secretaria de Justiça, Cidadania e Direitos Humanos?",
+      "O que o balanço diz sobre o Fundo Estadual de Assistência Social (FEAS)?",
+      "Onde está o relatório de transparência sobre os gastos do Plano Rio Grande?"
+    ]
+  }
+]
